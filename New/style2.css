@@ -1,0 +1,42 @@
+.a1{
+        background-color:gray;
+        color:white;
+        border-radius:20px;
+        border-color: blue;
+        font-size:55px;
+        width:85%;
+        height:70px;
+        border-style:double;
+        border-width:20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 5px;
+        padding-left: 5px;
+        box-shadow: 6px 8px 7px red;
+    }
+        body{
+        background-image: url('pc.jpg');
+        background-repeat:no-repeat;
+        background-attachment:fixed;
+        background-position:center;
+        background-size:100%;
+        font-size:30px;
+    
+    }
+
+        tr{
+        height:50px;
+    }
+        .a{
+        background-color:cornsilk;
+        border-radius:90px;
+        border-width:20px;
+        border-style:double;
+        border-color:darkgray;
+        width:85%;
+        height:10px;
+    }
+        button{
+        text-decoration:none;
+        font-size:100px;
+    }
